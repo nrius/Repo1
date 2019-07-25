@@ -1,3 +1,8 @@
-This is a test
-test 2
-this is a a vital addtion to readme
+#Nuria Rius
+
+###Genetics
+
+I am interested in genome evolution, and how non-codding sequences can shape the genomes they inhabit and their expression. 
+
+
+You can contact me at nuria.rius.camps*at*gmail.com
