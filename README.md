@@ -1,6 +1,6 @@
-#Nuria Rius
+# Nuria Rius
 
-###Genetics
+### Genetics
 
 I am interested in genome evolution, and how transposable elements can shape the genomes they inhabit.
 
